@@ -1,6 +1,6 @@
 # **Responsive Navigation Bar**
 
-Just a simple reponsive navigation bar with small animation using HTML, CSS and JavaScript.
+Just a simple reponsive navigation bar with small animations using HTML, CSS and JavaScript.
 
 - Navigation Bar Animations:
 

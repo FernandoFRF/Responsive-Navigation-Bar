@@ -14,6 +14,6 @@ Just a simple reponsive navigation bar with small animations using HTML, CSS and
 
 ![Desktop](./readmeimages/desktop.PNG)
 
-- Mobile (768px):
+- Mobile:
 
 ![Mobile](./readmeimages/mobile.PNG)
